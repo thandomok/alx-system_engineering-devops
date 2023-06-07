@@ -1,0 +1,1 @@
+Create current directory script
